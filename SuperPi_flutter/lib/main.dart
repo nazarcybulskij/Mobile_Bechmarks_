@@ -29,6 +29,7 @@ class _HomeState extends State<Home> {
             child: RaisedButton(
               child: Text(time),
               onPressed: (){
+                //var startdate = DateTime.now().millisecondsSinceEpoch;
                 final Stopwatch watch = Stopwatch();
                 print('Pi calc tracker benchmark...');
                 watch.start();
@@ -38,16 +39,19 @@ class _HomeState extends State<Home> {
                   calc.getOneByPi(1000000);
                 }
                 watch.stop();
+                //var finishDate = DateTime.now().millisecondsSinceEpoch;
                 final BenchmarkResultPrinter printer = BenchmarkResultPrinter();
                 printer.addResult(
                   description: 'Pi calc tracker',
                   value: watch.elapsedMicroseconds / _kNumIters,
+                  //value: (finishDate - startdate)/_kNumIters,
                   unit: 'µs per iteration',
                   name: 'iteration',
                 );
                 printer.printToStdout();
                 setState(() {
                   time ='${watch.elapsedMicroseconds / _kNumIters}';
+                  //time ='${(finishDate - startdate)/_kNumIters}';
                 });
               },
             ),

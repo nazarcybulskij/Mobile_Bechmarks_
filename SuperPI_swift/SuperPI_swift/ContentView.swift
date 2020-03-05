@@ -19,7 +19,6 @@ struct ContentView: View {
             var i: Int = 0;
             while((i < numIters) == true) {
                 i = i + 1;
-                NSLog(String(i));
                 //gaussLegendre(iterations: 100000000)
                 getOneByPi(iterations:1000000)
             }

@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - super_pi_flutter_native (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - super_pi_flutter_native (from `.symlinks/plugins/super_pi_flutter_native/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  super_pi_flutter_native:
+    :path: ".symlinks/plugins/super_pi_flutter_native/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  super_pi_flutter_native: 9d7be078a965bf1caca441e7509b9b9a778719a3
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.8.1

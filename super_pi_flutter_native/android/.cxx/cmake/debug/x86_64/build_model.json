@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/android",
+      "sdkFolder": "/Users/nazarko/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/build/super_pi_flutter_native/intermediates",
+      "gradleModulePathName": ":super_pi_flutter_native",
+      "moduleRootFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android",
+      "makeFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/android/.cxx",
+      "cxxFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx",
+      "ndkFolder": "/Users/nazarko/Android/sdk/ndk/20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/build/super_pi_flutter_native/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/build/super_pi_flutter_native/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64",
+  "jsonFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64",
+  "objFolder": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/build/super_pi_flutter_native/intermediates/cmake/debug/obj/x86_64",
+  "buildCommandFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cxx/debug/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/x86_64/compile_commands.json"
+}

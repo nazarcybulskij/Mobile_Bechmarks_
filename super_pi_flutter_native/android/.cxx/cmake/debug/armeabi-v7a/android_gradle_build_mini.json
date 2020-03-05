@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nazarko/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "super_pi_flutter_native-Debug-armeabi-v7a": {
+      "artifactName": "super_pi_flutter_native",
+      "buildCommand": "/Users/nazarko/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/android/.cxx/cmake/debug/armeabi-v7a --target super_pi_flutter_native",
+      "abi": "armeabi-v7a",
+      "output": "/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/example/build/super_pi_flutter_native/intermediates/cmake/debug/obj/armeabi-v7a/libsuper_pi_flutter_native.so"
+    }
+  }
+}

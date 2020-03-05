@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/super_pi_flutter_native.iml" filepath="$PROJECT_DIR$/super_pi_flutter_native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/super_pi_flutter_native_android.iml" filepath="$PROJECT_DIR$/android/super_pi_flutter_native_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/super_pi_flutter_native_example_android.iml" filepath="$PROJECT_DIR$/example/android/super_pi_flutter_native_example_android.iml" />
+    </modules>
+  </component>
+</project>
