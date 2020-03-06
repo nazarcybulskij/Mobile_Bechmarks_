@@ -2,17 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc14f65-5868-46b9-a66c-8e29c5fcd9e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/android/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/example/lib/common.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/example/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/example/lib/pi_calculator.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/ios/Classes/pi_calc.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperPI_swift/SuperPI_swift.xcodeproj/project.xcworkspace/xcuserdata/nazarko.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPI_swift/SuperPI_swift.xcodeproj/project.xcworkspace/xcuserdata/nazarko.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperPI_swift/SuperPI_swift/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPI_swift/SuperPI_swift/ContentView.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperPi_reactnative/ios/SuperPi_reactnative.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_reactnative/ios/SuperPi_reactnative.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/common.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter_ffi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/android_gradle_build_super_pi_flutter_native_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/android_gradle_build_super_pi_flutter_native_arm64-v8a.stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_super_pi_flutter_native_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_super_pi_flutter_native_armeabi-v7a.stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/android_gradle_build_super_pi_flutter_native_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/android_gradle_build_super_pi_flutter_native_x86.stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/android_gradle_build_super_pi_flutter_native_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/android_gradle_build_super_pi_flutter_native_x86_64.stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -27,21 +38,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/super_pi_flutter_native.dart">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="189">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -96,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="399">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -105,7 +110,31 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/lib/common.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+              <folding>
+                <element signature="e#0#2755#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getOneByPi</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -113,18 +142,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" />
         <option value="$PROJECT_DIR$/android/build.gradle" />
         <option value="$PROJECT_DIR$/android/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/example/lib/common.dart" />
+        <option value="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="3" />
     <option name="y" value="23" />
     <option name="width" value="1545" />
-    <option name="height" value="1009" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,13 +171,33 @@
               <item name="super_pi_flutter_native" type="b2602c69:ProjectViewProjectNode" />
               <item name="super_pi_flutter_native" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="super_pi_flutter_native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super_pi_flutter_native" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="super_pi_flutter_native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super_pi_flutter_native" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="super_pi_flutter_native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super_pi_flutter_native" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="super_pi_flutter_native" type="b2602c69:ProjectViewProjectNode" />
+              <item name="super_pi_flutter_native" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,9 +238,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1545" height="1009" extended-state="0" />
+    <frame x="3" y="23" width="1545" height="1004" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3120426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39853626" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -198,7 +251,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" />
@@ -224,13 +277,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/super_pi_flutter_native.dart">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -265,10 +311,27 @@
     <entry file="file://$PROJECT_DIR$/android/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/common.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#0#2755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="399">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
