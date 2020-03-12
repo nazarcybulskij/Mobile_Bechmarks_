@@ -47,7 +47,7 @@ class _HomeState extends State<Home> {
                 print('Pi calc tracker benchmark...');
                 watch.start();
                 for (int i = 0; i < _kNumIters; i += 1) {
-                  gaussLegendre(100000000);
+                  gaussLegendre(10000000);
                   //getOneByPi(1000000);
                 }
                 watch.stop();

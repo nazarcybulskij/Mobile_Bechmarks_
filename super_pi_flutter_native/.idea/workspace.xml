@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc14f65-5868-46b9-a66c-8e29c5fcd9e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/lib/common.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter_ffi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter_ffi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/android_gradle_build_super_pi_flutter_native_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/arm64-v8a/android_gradle_build_super_pi_flutter_native_arm64-v8a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_super_pi_flutter_native_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_super_pi_flutter_native_armeabi-v7a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/android_gradle_build_super_pi_flutter_native_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86/android_gradle_build_super_pi_flutter_native_x86.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/CMakeFiles/super_pi_flutter_native.dir/Users/nazarko/FlutterProjects/Mobile_Bechmarks/super_pi_flutter_native/ios/Classes/super_pi_flutter_native.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/android_gradle_build_super_pi_flutter_native_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/.cxx/cmake/debug/x86_64/android_gradle_build_super_pi_flutter_native_x86_64.stdout.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/super_pi_flutter_native.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -101,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="111">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -153,7 +132,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="3" />
     <option name="y" value="23" />
-    <option name="width" value="1545" />
+    <option name="width" value="1751" />
     <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -238,10 +217,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1545" height="1004" extended-state="0" />
+    <frame x="3" y="23" width="1751" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39853626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2557051" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -251,7 +230,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="4" />
@@ -267,7 +246,7 @@
       <window_info anchor="right" id="Flutter Inspector" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Flutter Outline" order="7" weight="0.32934132" />
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
@@ -330,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        <state relative-caret-position="111">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>

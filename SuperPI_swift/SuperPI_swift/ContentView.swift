@@ -20,7 +20,8 @@ struct ContentView: View {
             while((i < numIters) == true) {
                 i = i + 1;
                 //gaussLegendre(iterations: 100000000)
-                getOneByPi(iterations:1000000)
+                //getOneByPi(iterations:1000000)
+                mathPow(iterations: 10000000)
             }
             let endTime = getCurrentMillis();
             NSLog("End");
@@ -88,5 +89,14 @@ func getOneByPi(iterations:Int) -> Double {
      ak = ak1;
   }
   return ak;
+}
+
+func mathPow(iterations:Int){
+    var i: Double = 0;
+    let iter = Double(iterations)
+    while((i < iter) == true) {
+       i = i + 1
+        pow(i, 2.0)
+    }
 }
 

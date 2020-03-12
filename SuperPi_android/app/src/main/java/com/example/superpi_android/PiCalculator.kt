@@ -1,5 +1,7 @@
 package com.example.superpi_android
 
+import kotlin.random.Random
+
 internal class PiCalculator {
     fun gaussLegendre(iterations: Long): Double {
         var a = 1.0
@@ -31,5 +33,14 @@ internal class PiCalculator {
             ak = ak1
         }
         return ak
+    }
+
+    var rand = Random(100);
+
+    fun mathPow(iterations: Long):Double {
+        for (i in 0 until iterations) {
+            Math.pow(i.toDouble(),2.0)
+        }
+        return rand.nextDouble()
     }
 }
