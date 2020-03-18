@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{238B7AC0-50DA-4941-AABB-5C06186D8C7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo3/MainPage.xaml.cs">
+    <Files>
+      <File FileName="demo3/MainPage.xaml" Line="10" Column="37" />
+      <File FileName="demo3/Calculator.cs" Line="30" Column="16" />
+      <File FileName="demo3/App.xaml" Line="1" Column="1" />
+      <File FileName="demo3/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="demo3/MainPage.xaml.cs" Line="48" Column="35" />
+      <File FileName="../../.nuget/packages/mathparser.org-mxparser/4.4.2/readme.txt" Line="1" Column="1" />
+      <File FileName="demo3.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo3" expanded="True" selected="True">
+            <Node name="demo3" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.demo3.Android PreferredExecutionTarget="Android.3a12979" />
+  <MonoDevelop.Ide.ItemProperties.demo3.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="release" Name="release">
+      <Items>
+        <StartupItem ItemId="{238B7AC0-50DA-4941-AABB-5C06186D8C7C}" ItemName="demo3.Android" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

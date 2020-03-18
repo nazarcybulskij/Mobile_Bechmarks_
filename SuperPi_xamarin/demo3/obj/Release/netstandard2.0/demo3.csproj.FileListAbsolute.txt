@@ -1,0 +1,12 @@
+/Users/nazarko/Projects/demo3/demo3/bin/Release/netstandard2.0/demo3.deps.json
+/Users/nazarko/Projects/demo3/demo3/bin/Release/netstandard2.0/demo3.dll
+/Users/nazarko/Projects/demo3/demo3/bin/Release/netstandard2.0/ref/demo3.dll
+/Users/nazarko/Projects/demo3/demo3/bin/Release/netstandard2.0/demo3.pdb
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/demo3.AssemblyInfoInputs.cache
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/demo3.AssemblyInfo.cs
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/XamlC.stamp
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/demo3.dll
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/ref/demo3.dll
+/Users/nazarko/Projects/demo3/demo3/obj/Release/netstandard2.0/demo3.pdb
